@@ -20,10 +20,11 @@ function add_guest1(){
 }
 function add_guest2(){
     guest += 2
-    document.getElementById("score2").textContent = guest}
+    document.getElementById("score2").textContent = guest
+}
 function add_guest3(){
     guest += 3
-    console.log(guest)
+    document.getElementById("score2").textContent = guest
 }
 
 function add_to_home(){
