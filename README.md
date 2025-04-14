@@ -12,3 +12,5 @@ This is a dynamic scoreboard app built using HTML, CSS, and JavaScript, powered 
 - CSS
 - JavaScript
 - [Vite](https://vitejs.dev/)
+
+https://gainny.github.io/scoreboard-project/
